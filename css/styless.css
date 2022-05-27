@@ -1,0 +1,568 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+
+
+/* header */
+
+.container-header {
+    position: absolute;
+    width: 1440px;
+    height: 83px;
+    top: 0px;
+    left: 0px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.13);
+    border-radius: 0px 0px 40px 40px;
+}
+
+.img-ebay {
+    position: absolute;
+    width: 121px;
+    height: 48.53px;
+    left: 102px;
+    top: 16px;
+    
+}
+
+.ul-item {
+    list-style-type: none;
+}
+
+.input-text {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px;
+    position: absolute;
+    width: 494px;
+    left: 262px;
+    top: 18px;
+    background: #F3F3F3;
+    border-radius: 8px 0px 0px 8px;
+}
+
+.bottom1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    position: absolute;
+    width: 48px;
+    height: 40px;
+    left: 755px;
+    top: 18px;
+    background: #0064D2;
+    border-radius: 0px 8px 8px 0px; 
+}
+
+
+.love-img {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    left: 840px;
+    top: 30px;
+    margin: auto;
+}
+
+.text-01 {
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    left: 855px;
+    top: 22px;
+}
+
+.img-arava-1 {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    left: 65%;
+    top: 30px;
+    margin: auto;
+}
+.aravakaw {
+    display: flex;
+}
+.text-pul {
+    height: 30px; 
+    position: absolute;
+    top: 25px;
+    margin-left: auto;
+    width: 80px;
+    display: flex;
+    margin-right: 5px;
+    left: 68%;
+}
+.span-spans {
+    left: 68%;
+    display: flex;
+    top: 60px;
+    margin-left: auto;
+    width: 80px;
+    margin-right: 5px;
+    position: absolute;
+    height: 30px; 
+}
+
+.img-opa {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1067px;
+    top: 19px; 
+}
+
+.strelka-pastga {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 1116px;
+    top: 30px;
+    
+}
+
+.button-1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 14px;
+    position: absolute;
+    width: 178px;
+    height: 40px;
+    left: 1160px;
+    top: 19px;
+    background: #0064D2;
+    border-radius: 8px;
+}
+
+.text-kvadrat {
+    width: 126px;
+    height: 18px;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.button-1:hover {
+    opacity: 0.9;
+}
+
+.doir01 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 107px;
+    top: 118px;
+}
+
+.text-doir {
+    position: absolute;
+    width: 555px;
+    height: 24px;
+    left: 159px;
+    top: 111px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2F294D;
+}
+
+.cell-phones {
+    position: absolute;
+    width: 555px;
+    height: 24px;
+    left: 435px;
+    top: 127px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0064D2;
+}
+
+.left1 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 115px;
+    top: 126px;
+}
+
+.Smart {
+    position: absolute;
+    width: 224px;
+    height: 24px;
+    left: 660px;
+    top: 127px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0064D2;
+}
+
+.ciziq {
+    position: absolute;
+    width: 1440.5px;
+    height: 0px;
+    left: 0px;
+    top: 160px;
+    border: 1px solid rgba(173, 173, 173, 0.17);
+} 
+
+/* Hero */
+
+.hero {
+    position: absolute;
+    width: 536px;
+    height: 463px;
+    left: 102px;
+    top: 201px;
+    background: #E6F0FB;
+    border-radius: 24px;
+}
+
+.iphone-01 {
+    position: absolute;
+    width: 480px;
+    height: 480px;
+    left: 20px;
+    top: 1px;
+    mix-blend-mode: multiply;
+}
+
+
+.doir-01 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1px;
+    top: 540px;
+}
+.left-left {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 8px;
+    top: 546px;
+}
+
+.right-right {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 500px;
+    top: 546px;
+    
+}
+
+.telefon-iphone {
+    background-color: #E6F0FB;
+    position: absolute;
+    width: 137px;
+    height: 117px;
+    left: 50px;
+    top: 500px;
+    
+}
+
+.camera {
+    position: absolute;
+    width: 114px;
+    height: 26px;
+    left: 200px;
+    top: 546px;
+    mix-blend-mode: multiply #E6F0FB;
+}
+
+.orqasi {
+    position: absolute;
+    width: 96px;
+    height: 101px;
+    left: 360px;
+    top: 501px;
+    mix-blend-mode: multiply #E6F0FB;
+    
+}
+
+.doir011 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 492px;
+    top: 540px;
+}
+
+.text-p {
+    position: absolute;
+    width: 387px;
+    height: 54px;
+    left: 600px;
+    top: -22px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    color: #2F294D;
+}
+
+.text-pej {
+    position: absolute;
+    width: 86px;
+    height: 30px;
+    left: 1001px;
+    top: 2px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #0064D2;
+}
+
+.shafof {
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    left: 965px;
+    top: 17px;
+    background: #0064D2;
+    opacity: 0.1;
+    border-radius: 11px;
+}
+
+.mini-text {
+    position: absolute;
+    width: 498px;
+    height: 24px;
+    left: 600px;
+    top: 50px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2F294D;
+    opacity: 0.5;
+    
+}
+
+.zvezda1 {
+    list-style-type: none;
+}
+
+.zvezdala1 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 596px;
+    top: 108px;
+    border-radius: 2px;
+}
+
+.zvezdala2 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 630px;
+    top: 108px;
+    border-radius: 2px;
+}
+
+.zvezdala3 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 666px;
+    top: 108px;
+    border-radius: 2px;
+}
+
+.zvezdala4 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 700px;
+    top: 108px;
+    border-radius: 2px;
+}
+
+.zvezdala5 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 736px;
+    top: 108px;
+    border-radius: 2px;
+}
+
+.spans-4 {
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    left: 777px;
+    top: 115px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2F294D;   
+}
+
+.text-zvezda {
+    display: flex;
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 802px;
+    top: 100px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2F294D;
+    opacity: 0.5;
+}
+
+.dengi {
+    position: absolute;
+    width: 85px;
+    height: 66px;
+    left: 616px;
+    top: 102px;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 66px;
+    color: #2F294D;
+}
+
+.pul {
+    position: absolute;
+    width: 16px;
+    height: 36px;
+    left: 600px;
+    top: 150px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #2F294D;
+    opacity: 0.7;
+}
+
+.text-lilar1 {
+    position: absolute;
+    width: 498px;
+    height: 24px;
+    left: 620px;
+    top: 200px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2F294D;
+}
+
+.text-lilar2 {
+    position: absolute;
+    width: 498px;
+    height: 24px;
+    left: 620px;
+    top: 230px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2F294D;
+}
+
+.text-lilar3 {
+    position: absolute;
+    width: 498px;
+    height: 24px;
+    left: 620px;
+    top: 260px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2F294D;
+}
+
+.text-lilar4 {
+    position: absolute;
+    width: 498px;
+    height: 24px;
+    left: 620px;
+    top: 290px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2F294D;
+}
+
+.name {
+    list-style-type: none;
+}
+
+.img-vector1 {
+    position: absolute;
+    left: 590px;
+    top: 214px;
+}
+
+.img-vector2 {
+    position: absolute;
+    left: 590px;
+    top: 245px;
+}
+
+.img-vector3 {
+    position: absolute;
+    left: 590px;
+    top: 277px;
+}
+
+.img-vector4 {
+    position: absolute;
+    left: 590px;
+    top: 309px;
+}
+
+.fotolar {
+    list-style-type: none;
+}
+
+.foto-1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 589px;
+    top: 350px;
+}
+.foto-2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 635px;
+    top: 350px;
+}
+.foto-3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 681px;
+    top: 350px;
+}
+
+.text20 {
+    position: absolute;
+    width: 498px;
+    height: 24px;
+    left: 730px;
+    top: 345px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0064D2;
+}
